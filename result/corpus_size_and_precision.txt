@@ -1,0 +1,48 @@
+﻿记录语料库大小（分别占原始语料库大小的5%、10%、20%、40%、60%、80%、100%作为数据集）
+准确率如下；
+
+5%
+0.8793565015380604
+
+10%
+0.8939492425618768
+[0.8793565015380604, 0.8939492425618768, 0.904964546371579, 0.9074774731346051, 0.9094786030013993, 0.9038174256514628, 0.9043528048126959]
+
+20%
+Using CV-KFold K等分数(n_splits)=10
+平均准确率(Mean precision): 0.904964546371579
+集外词平均准确率(OOV Mean precision): 0.35836085939701634
+兼类词平均准确率(Multi Category Mean precision): 0.8641598049454634
+集外词占比(OOV rate): 0.05339430166713096
+兼类词占比(Multi Category rate): 0.3141440649828168
+
+40%
+平均准确率(Mean precision): 0.9074774731346051
+集外词平均准确率(OOV Mean precision): 0.3639991012965039
+兼类词平均准确率(Multi Category Mean precision): 0.8660127282663147
+集外词占比(OOV rate): 0.03826435172456694
+兼类词占比(Multi Category rate): 0.34248926950492375
+
+60%
+Using CV-KFold K等分数(n_splits)=10
+平均准确率(Mean precision): 0.9094786030013993
+集外词平均准确率(OOV Mean precision): 0.3746636063685672
+兼类词平均准确率(Multi Category Mean precision): 0.8722574474763887
+集外词占比(OOV rate): 0.03155665716006291
+兼类词占比(Multi Category rate): 0.36731954437560327
+
+80%
+Using CV-KFold K等分数(n_splits)=10
+平均准确率(Mean precision): 0.9038174256514628
+集外词平均准确率(OOV Mean precision): 0.3694720779452288
+兼类词平均准确率(Multi Category Mean precision): 0.8704002188265137
+集外词占比(OOV rate): 0.028301997051840312
+兼类词占比(Multi Category rate): 0.37690767080952037
+
+100%
+Using CV-KFold K等分数(n_splits)=10
+平均准确率(Mean precision): 0.9043528048126959
+集外词平均准确率(OOV Mean precision): 0.37184658090606637
+兼类词平均准确率(Multi Category Mean precision): 0.8722411069876441
+集外词占比(OOV rate): 0.02518227756839504
+兼类词占比(Multi Category rate): 0.38537676822796835

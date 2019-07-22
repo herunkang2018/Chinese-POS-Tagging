@@ -1,0 +1,5 @@
+r-word.txt记录了从词性R（与Nr的r区别）到词的统计记过，一次为N0，N1，N2,...
+Nr为Good-Turing中的概念，表示在样本中正好出现r次的事件的数目
+
+paint_for_gt_smoothing.py是针对Nr的不均匀分布，只需要对较小的r进行处理。
+为了了解Nr的分布情况，可用这个程序进行可视化。
